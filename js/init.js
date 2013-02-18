@@ -21,7 +21,7 @@ window.addEventListener('DOMContentLoaded', function() {
         // Below is the latest syntax. Using the old syntax for the time being for backwards compatibility.
         // navigator.getUserMedia({video: true}, successCallback, errorCallback);
     } else {
-        $("#qr-value").text('Native web camera streaming (getUserMedia) is not supported in this browser.')
+        $("#qr-value").text('Sorry, native web camera streaming (getUserMedia) is not supported by this browser...')
         return;
     }
 }, false);
