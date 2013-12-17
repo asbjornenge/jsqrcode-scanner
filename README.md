@@ -8,3 +8,7 @@ JSQRCode Scanner is a demo of how you could build a QR code scanner in the brows
 It has no tests, messy code, bugs and will probably crash. If you manage to get it working; try holding a QR code in front of your webcam to unveil the magic. I managed to get it working using the latest chrome canary build.
 
 enjoy.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/asbjornenge/jsqrcode-scanner/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
